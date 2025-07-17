@@ -23,13 +23,13 @@ The IoT Smart Parking System is a system that enables the parking lot to connect
 
 The prototype was created by integrating the electronic circuits onto a parking lot model made from architectural model board.
 
-| Prototype Overview | Web Interface |
-| --- | --- |
-|  |  |
+| Prototype Overview                               | Web Interface                                    |
+| :----------------------------------------------- | :----------------------------------------------- |
+| ![Prototype Image](media/prototype_image.jpeg)   | ![Web App Screenshot](media/webapp_screenshot.png) |
 
 **Project Demonstration Video**
 
-[Project Video](https://www.google.com/search?q=media/project_video.mp4 "null")
+[Watch the Project Video](media/project_video.mp4)
 
 ### Technologies and Materials
 
